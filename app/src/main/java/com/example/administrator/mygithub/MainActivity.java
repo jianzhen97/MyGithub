@@ -13,15 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e(TAG, "onCreate: ");
         Toast.makeText(this, "sadsf", Toast.LENGTH_SHORT).show();
-
-
-        Log.e(TAG, "onCreate: ");
-        Toast.makeText(this, "sadsf", Toast.LENGTH_SHORT).show();
-
-        Log.e(TAG, "onCreate: ");
-        Toast.makeText(this, "sadsf", Toast.LENGTH_SHORT).show();
-
-        Log.e(TAG, "onCreate: ");
-        Toast.makeText(this, "sadsf", Toast.LENGTH_SHORT).show();
     }
 }
